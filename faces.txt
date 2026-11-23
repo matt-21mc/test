@@ -4,3 +4,4 @@ Cara, Derecha: los jugadores giran 90º hacia la derecha
 Inclinar, Derecha: los jugadores miran 45º hacia la derecha
 Centro: mirar a la posición original (escenario)
 Cara, Control: mirar hacia donde está el host
+LAS CARAS SE SUMAN UNAS A LAS OTRAS
